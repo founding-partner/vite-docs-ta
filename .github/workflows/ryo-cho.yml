@@ -12,11 +12,11 @@ jobs:
       - uses: vuejs-translations/ryu-cho@v1
         with:
           access-token: ${{ secrets.GITHUB_TOKEN }}
-          username: github-actions
-          email: "action@github.com"
+          username: carreraphp
+          email: "yogesh.surendran.85@gmail.com"
 
           # TODO: Replace this with your own repo URL
-          upstream-repo: https://github.com/tony19/vite-docs-template.git
+          upstream-repo: https://github.com/founding-partner/vite-docs-ta.git
           # TODO: Replace this with your own repo's branch name
           upstream-repo-branch: main
 
